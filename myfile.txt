@@ -9,3 +9,4 @@ lets play on stash
 let us do revert
 multiple commits
 check for push
+lets play on conflicts
